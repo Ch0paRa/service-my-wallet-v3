@@ -7,7 +7,7 @@
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/blockchain/service-my-wallet-v3.git"
+    "url": "git://github.com/Ch0paRa/service-my-wallet-v3.git"
   },
   "bugs": {
     "url": "https://github.com/blockchain/service-my-wallet-v3/issues"
