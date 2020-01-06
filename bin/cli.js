@@ -16,7 +16,7 @@ var registryUrl = require('registry-url')
 var defaults = {
   port: process.env.PORT,
   rpcport: 8000,
-  bind: '127.0.0.1'
+  bind: process.env.HOST
 }
 
 program
