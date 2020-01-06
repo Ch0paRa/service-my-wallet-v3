@@ -14,7 +14,7 @@ var semver = require('semver')
 var registryUrl = require('registry-url')
 
 var defaults = {
-  port: 3000,
+  port: process.env.PORT,
   rpcport: 8000,
   bind: '127.0.0.1'
 }
